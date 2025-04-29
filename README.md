@@ -19,7 +19,7 @@ IP黑名单检查
 sudo apt update && sudo apt install -y curl jq speedtest-cli dnsutils
 
 # 下载脚本
-wget https://example.com/tiktok.sh 
+wget https://github.com/KACJ3300/tiktok-test/blob/main/tiktok.sh
 chmod +x tiktok.sh
 
 # 使用方法
